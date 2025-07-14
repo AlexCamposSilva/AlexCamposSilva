@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Alex Campos
+# 👋 Olá! Eu sou Alex Campos
 
 💻 Em transição de carreira para a área de tecnologia  
 📚 Estudante de Ciência de Dados e Java  
