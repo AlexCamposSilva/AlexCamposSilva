@@ -17,18 +17,16 @@
 - [Portfólio de Projetos Pessoais](https://github.com/SEU-USUARIO/projetos-pessoais)
 
 
-  
-### 🛠️ Tecnologias
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-MachineLearning-102C57?style=flat&logo=TensorFlow&logoColor=orange)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 
 ### 📊 GitHub Stats
 
 ![AlexCamposSilva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexCamposSilva&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposSilva&layout=compact&theme=tokyonight)
 
----
+### 🛠️ Tecnologias
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-MachineLearning-102C57?style=flat&logo=TensorFlow&logoColor=orange)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 
 ### 📫 Vamos nos conectar?
 
