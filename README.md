@@ -1,20 +1,4 @@
 
-### 📊 GitHub Stats
-
-![AlexCamposSilva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexCamposSilva&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposSilva&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
-
-
-
-
-
 # 👋 Olá! Eu sou o Alex Campos
 
 🎓 Estudante de Tecnologia, em transição para a área de Machine Learning.  
@@ -37,7 +21,17 @@
 - [Projetos de Machine Learning](https://github.com/SEU-USUARIO/machine-learning)
 - [Portfólio de Projetos Pessoais](https://github.com/SEU-USUARIO/projetos-pessoais)
 
-### 📬 Contato
-- Email: seuemail@email.com  
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
+### 📊 GitHub Stats
+
+![AlexCamposSilva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexCamposSilva&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposSilva&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
+
+
 
