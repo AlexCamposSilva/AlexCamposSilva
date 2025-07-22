@@ -12,7 +12,7 @@
 - 🧠 Explorando redes neurais e visão computacional
 
 ### 📈 Repositórios em Destaque
-- [Curso de Python - Exercícios](https://github.com/SEU-USUARIO/python-fundamentos)
+- [Curso de Python - Exercícios]([https://github.com/SEU-USUARIO/python-fundamentos](https://github.com/AlexCamposSilva/Curso_Python_DSA))
 - [Projetos de Machine Learning](https://github.com/SEU-USUARIO/machine-learning)
 - [Portfólio de Projetos Pessoais](https://github.com/SEU-USUARIO/projetos-pessoais)
 
