@@ -6,8 +6,10 @@
 💡 Já estudei algoritmos como KNN, K-Means, CNN e Regressão Linear.  
 
 ### 🚀 Minhas Trilhas de Estudo
-- 📘 Python Profissional (72h)
-- 🤖 Machine Learning com projetos (50h)
+- ☕ Iniciando com Java
+- 🟩 Spring Boot
+- 📘 Python Profissional
+- 🤖 Machine Learning com projetos
 - 📊 Projetos com Pandas, Scikit-Learn e APIs
 - 🧠 Explorando redes neurais e visão computacional
 
