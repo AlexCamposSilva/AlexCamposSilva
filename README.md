@@ -15,7 +15,7 @@
 
 ### 📈 Repositórios em Destaque
 - [Curso de Python - Exercícios](https://github.com/AlexCamposSilva/Curso_Python_DSA)
-- [Projetos de Machine Learning](https://github.com/AlexCamposSilva/VaiNaWeb-ML/tree/master/Atividades%20vai%20na%20WEB)
+- [Projetos de Machine Learning]([https://github.com/AlexCamposSilva/VaiNaWeb-ML/tree/master/Atividades%20vai%20na%20WEB](https://github.com/AlexCamposSilva/Curso_Machine_Learning_Vai_Na_Web/tree/master))
 - [Portfólio de Projetos Pessoais](https://github.com/SEU-USUARIO/projetos-pessoais)
 
 
