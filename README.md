@@ -37,8 +37,9 @@
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://www.linkedin.com/in/alex-campos-44bb01349/)](https://www.linkedin.com/in/seu-linkedin/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alex-campos-44bb01349/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](alexcampostec@gmail.com)
 
 
 
