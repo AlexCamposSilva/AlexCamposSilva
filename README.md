@@ -15,20 +15,28 @@
 
 ### 📈 Repositórios em Destaque
 - [Curso de Python - Exercícios](https://github.com/alex-campos-Ac/Curso_Python_DSA)
-- [Projetos de Machine Learning](https://github.com/alex-campos-Ac/Curso_Machine_Learning_Vai_Na_Web/tree/master)
+- [Projetos de Machine Learning](https://github.com/alex-campos-Ac/Curso_Machine_Learning_Vai_Na_Web)
 - [Portfólio de Projetos Pessoais](https://github.com/SEU-USUARIO/projetos-pessoais)
+
 
 
 
 ### 📊 GitHub Stats
 
-![AlexCamposSilva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexCamposSilva&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCamposSilva&layout=compact&theme=tokyonight)
+![AlexCamposSilva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-campos-Ac&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-campos-Ac&layout=compact&theme=tokyonight)
 
-### 🛠️ Tecnologias
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-MachineLearning-102C57?style=flat&logo=TensorFlow&logoColor=orange)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
+## 🧰 Tecnologias que utilizo
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+</div>
 
 ### 📫 Vamos nos conectar?
 
